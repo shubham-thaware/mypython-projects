@@ -1,2 +1,2 @@
 # mypython-projects
-small projects with code
+Python small project along with simple-to-understand codes.
